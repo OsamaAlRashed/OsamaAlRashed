@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+  <a href="https://www.linkedin.com/in/osama-al-rashed-833a661aa">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.nuget.org/profiles/OsamaAlRashed">
+   <img src="https://img.shields.io/badge/Nuget-purple?style=for-the-badge&logo=nuget&logoColor=white" alt="Nuget Badge"/>
+  </a>
+
+- 🔭 I’m currently working on a new secret package.
+- 💬 Ask me about C#, .Net Core.
+
 <!--
 **OsamaAlRashed/OsamaAlRashed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
