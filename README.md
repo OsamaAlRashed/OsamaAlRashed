@@ -22,13 +22,8 @@
 <a href="http://codeforces.com/profile/osamarae" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="http://codeforces.com/profile/osamarae" height="30" width="40" /></a>
 <a href="https://leetcode.com/osamarae/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/osamarae/" height="30" width="40" /></a>
 </p>
-
-<h3 align="left"> My Packages :</h3>
-
-  <table>
-  <tbody>
     
-    <h3 align="left"> My Packages :</h3>
+  <h3 align="left"> My Packages :</h3>
 
   <table>
   <tbody>
@@ -39,13 +34,13 @@
     </a>
   </td> 
    <td> 
-    <a href="https://www.nuget.org/packages/EasyRefreshToken/">
-      <img alt="Nuget" src="https://img.shields.io/nuget/dt/EasyRefreshToken?color=blue&label=EasyRefreshToken&logo=nuget&style=flate">
+    <a href="https://www.nuget.org/packages/EasyDriveFilesManager/">
+      <img alt="Nuget" src="https://img.shields.io/nuget/dt/EasyDriveFilesManager?color=blue&label=EasyDriveFilesManager&logo=nuget&style=flate">
     </a>
   </td> 
   <td> 
-    <a href="https://www.nuget.org/packages/EasyRefreshToken/">
-      <img alt="Nuget" src="https://img.shields.io/nuget/dt/EasyRefreshToken?color=blue&label=EasyRefreshToken&logo=nuget&style=flate">
+    <a href="https://www.nuget.org/packages/EasyCBR/">
+      <img alt="Nuget" src="https://img.shields.io/nuget/dt/EasyRefreshToken?color=blue&label=EasyCBR&logo=nuget&style=flate">
     </a>
   </td> 
   </tr>
