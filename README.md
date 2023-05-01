@@ -23,6 +23,20 @@
 <a href="https://leetcode.com/osamarae/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/osamarae/" height="30" width="40" /></a>
 </p>
 
+<h3 align="left"> My Packages :</h3>
+
+  <table>
+  <tbody>
+
+  <tr> <td> 
+    <a href="https://www.nuget.org/packages/Neptunee.xApi/">
+  <img alt="Nuget" src="https://img.shields.io/nuget/dt/Neptunee.xApi?color=blue&label=Neptunee.xApi&logo=nuget&style=flate">
+  </a>
+  </td> </tr>
+    
+  </tbody>
+  <table>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
