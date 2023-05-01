@@ -33,14 +33,12 @@
       <img alt="Nuget" src="https://img.shields.io/nuget/dt/EasyRefreshToken?color=blue&label=EasyRefreshToken&logo=nuget&style=flate">
     </a>
   </td> 
-  </tr>
-    <tr> <td> 
+   <td> 
     <a href="https://www.nuget.org/packages/EasyRefreshToken/">
       <img alt="Nuget" src="https://img.shields.io/nuget/dt/EasyRefreshToken?color=blue&label=EasyRefreshToken&logo=nuget&style=flate">
     </a>
   </td> 
-  </tr>
-    <tr> <td> 
+  <td> 
     <a href="https://www.nuget.org/packages/EasyRefreshToken/">
       <img alt="Nuget" src="https://img.shields.io/nuget/dt/EasyRefreshToken?color=blue&label=EasyRefreshToken&logo=nuget&style=flate">
     </a>
