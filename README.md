@@ -40,7 +40,7 @@
   </td> 
   <td> 
     <a href="https://www.nuget.org/packages/EasyCBR/">
-      <img alt="Nuget" src="https://img.shields.io/nuget/dt/EasyRefreshToken?color=blue&label=EasyCBR&logo=nuget&style=flate">
+      <img alt="Nuget" src="https://img.shields.io/nuget/dt/EasyCBR?color=blue&label=EasyCBR&logo=nuget&style=flate">
     </a>
   </td> 
   </tr>
