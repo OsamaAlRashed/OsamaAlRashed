@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working on [Easy Sign WorkFlow](https://github.com/OsamaAlRashed/EasySignWorkFlow)
 
-- 👯 I’m looking to collaborate on [Code Maze](https://github.com/CodeMazeBlog/CodeMazeGuides)
-
 - 💬 Ask me about **C#, .Net Core, Software Engineering**
 
 - 📫 How to reach me **osama.future19@gmail.com**
