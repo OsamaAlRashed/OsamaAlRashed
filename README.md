@@ -42,6 +42,12 @@ resume](https://docs.google.com/document/d/1tEQWbL_vU41z3JFiGyCzbrAxGgjBxcWDAko1
                         src="https://img.shields.io/nuget/dt/EasySignWorkFlow?color=blue&label=EasySignWorkFlow&logo=nuget&style=flate">
                 </a>
             </td>
+                <td>
+                <a href="https://www.nuget.org/packages/Gridazor/">
+                    <img alt="Nuget"
+                        src="https://img.shields.io/nuget/dt/Gridazor?color=blue&label=Gridazor&logo=nuget&style=flate">
+                </a>
+            </td>
         </tr>
     </tbody>
 <table>
